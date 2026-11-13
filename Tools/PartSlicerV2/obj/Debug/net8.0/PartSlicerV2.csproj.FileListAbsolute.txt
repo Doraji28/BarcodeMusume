@@ -1,0 +1,14 @@
+D:\바코드도라지\My project (2)\Tools\PartSlicerV2\bin\Debug\net8.0\PartSlicerV2.exe
+D:\바코드도라지\My project (2)\Tools\PartSlicerV2\bin\Debug\net8.0\PartSlicerV2.deps.json
+D:\바코드도라지\My project (2)\Tools\PartSlicerV2\bin\Debug\net8.0\PartSlicerV2.runtimeconfig.json
+D:\바코드도라지\My project (2)\Tools\PartSlicerV2\bin\Debug\net8.0\PartSlicerV2.dll
+D:\바코드도라지\My project (2)\Tools\PartSlicerV2\bin\Debug\net8.0\PartSlicerV2.pdb
+D:\바코드도라지\My project (2)\Tools\PartSlicerV2\obj\Debug\net8.0\PartSlicerV2.GeneratedMSBuildEditorConfig.editorconfig
+D:\바코드도라지\My project (2)\Tools\PartSlicerV2\obj\Debug\net8.0\PartSlicerV2.AssemblyInfoInputs.cache
+D:\바코드도라지\My project (2)\Tools\PartSlicerV2\obj\Debug\net8.0\PartSlicerV2.AssemblyInfo.cs
+D:\바코드도라지\My project (2)\Tools\PartSlicerV2\obj\Debug\net8.0\PartSlicerV2.csproj.CoreCompileInputs.cache
+D:\바코드도라지\My project (2)\Tools\PartSlicerV2\obj\Debug\net8.0\PartSlicerV2.dll
+D:\바코드도라지\My project (2)\Tools\PartSlicerV2\obj\Debug\net8.0\refint\PartSlicerV2.dll
+D:\바코드도라지\My project (2)\Tools\PartSlicerV2\obj\Debug\net8.0\PartSlicerV2.pdb
+D:\바코드도라지\My project (2)\Tools\PartSlicerV2\obj\Debug\net8.0\PartSlicerV2.genruntimeconfig.cache
+D:\바코드도라지\My project (2)\Tools\PartSlicerV2\obj\Debug\net8.0\ref\PartSlicerV2.dll
